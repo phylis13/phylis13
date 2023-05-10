@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamphylis" target="blank"><img src="https://img.shields.io/twitter/follow/iamphylis?logo=twitter&style=for-the-badge" alt="iamphylis" /></a> </p>
 
-- 💬 Ask me about **Js,react,rails**
+- 💬 Ask me about **JS,react,Ruby on rails**
 
 - 📫 How to reach me **developerphylis@gmail.com**
 
